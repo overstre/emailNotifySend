@@ -1,0 +1,3 @@
+This is a simple shell script to display important information from an
+email message that is passed to the script on stdin.
+
